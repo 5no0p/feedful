@@ -1,5 +1,23 @@
 # feedful
 
+Feedful is a very opinionated, fast, jamstack rss reader for tech news. A [github action] scrapes rss urls from [publications.json](https://github.com/fayazara/feedful/blob/main/constants/publications.json) file and generates each article as a json file, which is fed to nuxt-content plugin to generate the pages in feedful, once scraped, the files are commited using the same action, which triggers a build in vercel.
+
+TODO.
+
+1. Rewrite the scrape function properly, use `Promise.all` to run the scraper in parallel.
+2. Add bookmark, share, fullscreen features to the article preview section.
+3. Add a search feature.
+4. Add a settings page, dark mode settings, and other settings.
+5. Move away from hackernews rss and use its api, which is much faster, more updated content, and get data like upvotes etc.
+6. Add a "read later" feature, integrate with pocket, and other services.
+
+Tech stack
+1. Nuxt.js for frontend
+2. Nuxt content module as a cms 
+3. Tailwindcss the css framework
+4. Vercel for deployment
+5. Github Actions for generating content
+
 ## Build Setup
 
 ```bash
@@ -40,7 +58,6 @@ More information about the usage of this directory in [the documentation](https:
 Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
 
 ### `pages`
 
