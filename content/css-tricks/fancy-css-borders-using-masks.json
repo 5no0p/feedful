@@ -1,0 +1,10 @@
+{
+  "title": "Fancy CSS Borders Using Masks",
+  "url": "https://css-tricks.com/css-borders-using-masks/",
+  "date": "Wed, 26 Jan 2022 14:26:49 +0000",
+  "content": "<p>Have you ever tried to make CSS borders in a repeating zig-zag pattern? Like where a colored section of a website ends and another differently colored section begins — not with a straight line, but angled zig zags, rounded humps, &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/css-borders-using-masks/\">Fancy CSS Borders Using Masks</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> and <a href=\"https://css-tricks.com/product/mvp-supporter/\">become a supporter</a>.</small></p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362018",
+  "description": "In this article, we look at modern CSS mask techniques to create three fancy CSS borders without having to use a background image.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}

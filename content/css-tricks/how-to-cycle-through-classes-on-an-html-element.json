@@ -1,0 +1,10 @@
+{
+  "title": "How to Cycle Through Classes on an HTML Element",
+  "url": "https://css-tricks.com/cycle-through-classes-html-element/",
+  "date": "Wed, 26 Jan 2022 19:48:49 +0000",
+  "content": "<p>Say you have three HTML classes, and a DOM element should only have one of them at a time:</p><pre rel=\"HTML\" class=\"wp-block-csstricks-code-block language-markup\" data-line=\"\"><code markup=\"tt\">&#60;div class=\"state-1\"&#60;/div&#60;div class=\"state-2\"&#60;/div&#60;div class=\"state-3\"&#60;/div</code></pre><p>Now your job is to rotate them. That is, cycle through classes &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/cycle-through-classes-html-element/\">How to Cycle Through Classes on an HTML Element</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> and <a href=\"https://css-tricks.com/product/mvp-supporter/\">become a supporter</a>.</small></p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/361200",
+  "description": "Say you have three HTML classes, and a DOM element. Your job is to rotate the classes. That is, cycle through classes on the HTML element.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}

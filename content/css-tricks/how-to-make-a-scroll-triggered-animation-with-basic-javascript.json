@@ -1,0 +1,10 @@
+{
+  "title": "How to Make a Scroll-Triggered Animation With Basic JavaScript",
+  "url": "https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/",
+  "date": "Tue, 25 Jan 2022 14:14:11 +0000",
+  "content": "<p>A little bit of animation on a site can add some flair, impress users, and get their attention. You could have them run, no matter where they are on the page, immediately when the page loads. But what if your &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/\">How to Make a Scroll-Triggered Animation With Basic JavaScript</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> and <a href=\"https://css-tricks.com/product/mvp-supporter/\">become a supporter</a>.</small></p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/360550",
+  "description": "Scroll-triggered events are very useful. There are libraries to create them but let's look at how to do it ourselves with a small handful of JavaScript.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}

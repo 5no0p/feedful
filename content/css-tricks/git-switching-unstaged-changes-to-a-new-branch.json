@@ -1,0 +1,10 @@
+{
+  "title": "Git: Switching Unstaged Changes to a New Branch",
+  "url": "https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/",
+  "date": "Thu, 27 Jan 2022 23:49:45 +0000",
+  "content": "<p>I&#8217;m always on the wrong branch. I&#8217;m either on <code>master</code> or <code>main</code> working on something that should be on a <code>fix</code> or <code>feature</code> branch. Or I&#8217;m on the last branch I was working on and should have cut a new &#8230;</p><hr /><p><small><a rel=\"nofollow\" href=\"https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/\">Git: Switching Unstaged Changes to a New Branch</a> originally published on <a rel=\"nofollow\" href=\"https://css-tricks.com\">CSS-Tricks</a>. You should <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> and <a href=\"https://css-tricks.com/product/mvp-supporter/\">become a supporter</a>.</small></p>",
+  "image": "https://css-tricks.com/wp-json/social-image-generator/v1/image/360998",
+  "description": "Say you're on the wrong Git branch with unstaged changes. There are a few to go about switching unstaged changes to a new branch.",
+  "publisher": "CSS Tricks",
+  "publisherUrl": "https://css-tricks.com/"
+}

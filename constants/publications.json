@@ -1,0 +1,158 @@
+[
+  {
+    "type": "Technology",
+    "path": "technology",
+    "publications": [
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/",
+        "rss": "https://www.theverge.com/rss/full.xml",
+        "key": "theverge",
+        "icon": "icon-the-verge"
+      },
+      {
+        "name": "Techcrunch",
+        "url": "https://www.techcrunch.com",
+        "rss": "https://feeds.feedburner.com/Techcrunch",
+        "key": "techcrunch",
+        "icon": "icon-techcrunch"
+      },
+      {
+        "name": "Hackernews",
+        "url": "http://news.ycombinator.com/",
+        "rss": "http://news.ycombinator.com/rss",
+        "key": "hackernews",
+        "icon": "icon-hacker-news"
+      },
+      {
+        "name": "9to5Mac",
+        "url": "http://9to5mac.com/",
+        "rss": "http://9to5mac.com/feed/",
+        "key": "9to5mac",
+        "icon": "icon-nine-to-five-mac"
+      },
+      {
+        "name": "9to5Google",
+        "url": "https://9to5google.com/",
+        "rss": "https://9to5google.com/feed/",
+        "key": "9to5google",
+        "icon": "icon-nine-to-five-google"
+      },
+      {
+        "name": "Google News Tech USA",
+        "url": "https://news.google.com/topstories?hl=en-US&gl=US&ceid=US:en",
+        "rss": "https://news.google.com/rss/search?hl=en-US&gl=US&q=tech&um=1&ie=UTF-8&ceid=US:en",
+        "key": "google-news-tech-usa",
+        "icon": "icon-google-news"
+      },
+      {
+        "name": "Google News Tech India",
+        "url": "https://news.google.com/topstories?hl=en-IN&gl=IN&ceid=IN:en",
+        "rss": "https://news.google.com/rss/search?q=tech&hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "key": "google-news-tech-india",
+        "icon": "icon-google-news"
+      },
+      {
+        "name": "The Next Web",
+        "url": "https://thenextweb.com/",
+        "rss": "https://thenextweb.com/feed",
+        "key": "the-next-web",
+        "icon": "icon-the-next-web"
+      },
+      {
+        "name": "Wired",
+        "url": "https://www.wired.com/",
+        "rss": "https://www.wired.com/feed",
+        "key": "wired",
+        "icon": "icon-wired"
+      },
+      {
+        "name": "XDA Developers",
+        "url": "https://www.xda-developers.com/feed/",
+        "rss": "https://www.xda-developers.com/feed/",
+        "key": "xda-developers",
+        "icon": "icon-xda-developers"
+      }
+    ]
+  },
+  {
+    "type": "Finance",
+    "path": "finance",
+    "publications": [
+      {
+        "name": "Google News Finance USA",
+        "url": "https://news.google.com/search?q=finance&hl=en-US&gl=US&ceid=US:en",
+        "rss": "https://news.google.com/rss/search?q=finance&hl=en-US&gl=US&ceid=US%3Aen",
+        "key": "google-news-finance-usa",
+        "icon": "icon-google-news"
+      },
+      {
+        "name": "Google News Finance India",
+        "url": "https://news.google.com/search?q=finance&hl=en-IN&gl=INS&ceid=IN:en",
+        "rss": "https://news.google.com/rss/search?q=finance&hl=en-IN&gl=IN&ceid=IN%3Aen",
+        "key": "google-news-finance-india",
+        "icon": "icon-google-news"
+      }
+    ]
+  },
+  {
+    "type": "Programming",
+    "path": "programming",
+    "publications": [
+      {
+        "name": "Flaviocopes",
+        "url": "https://flaviocopes.com/",
+        "rss": "https://flaviocopes.com/index.xml",
+        "key": "flaviocopes",
+        "icon": "icon-flavio-copes"
+      },
+      {
+        "name": "Codrops",
+        "url": "https://tympanus.net/codrops/",
+        "rss": "http://feeds2.feedburner.com/tympanus",
+        "key": "codrops",
+        "icon": "icon-codrops"
+      },
+      {
+        "name": "CSS Tricks",
+        "url": "https://css-tricks.com/",
+        "rss": "http://feeds.feedburner.com/CssTricks",
+        "key": "css-tricks",
+        "icon": "icon-css-tricks"
+      }
+    ]
+  },
+  {
+    "type": "News",
+    "path": "news",
+    "publications": [
+      {
+        "name": "Google News India",
+        "url": "https://news.google.com/topstories?hl=en-IN&gl=IN&ceid=IN:en",
+        "rss": "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
+        "key": "google-news-india",
+        "icon": "icon-google-news"
+      },
+      {
+        "name": "Google News USA",
+        "url": "https://news.google.com/topstories?hl=en-US&gl=US&ceid=US:en",
+        "rss": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+        "key": "google-news-usa",
+        "icon": "icon-google-news"
+      }
+    ]
+  },
+  {
+    "type": "Science",
+    "path": "science",
+    "publications": [
+      {
+        "name": "Futurity",
+        "url": "https://www.futurity.org/",
+        "rss": "https://www.futurity.org/feed/",
+        "key": "futurity",
+        "icon": "icon-futurity"
+      }
+    ]
+  }
+]

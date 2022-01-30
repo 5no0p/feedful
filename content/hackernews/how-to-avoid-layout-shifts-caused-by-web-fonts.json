@@ -1,0 +1,10 @@
+{
+  "title": "How to avoid layout shifts caused by web fonts",
+  "url": "https://simonhearne.com/2021/layout-shifts-webfonts/",
+  "date": "Sat, 29 Jan 2022 19:30:44 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30129571\">Comments</a>",
+  "image": "https://simonhearne.com/images/layout-shifts-webfonts/layout-shifts-webfonts-hero.jpg",
+  "description": "One of the biggest causes of layout shifts for my clients is late-loading web fonts, let's look at how to optimise them!",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
