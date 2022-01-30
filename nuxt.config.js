@@ -9,6 +9,14 @@ export default {
       { name: "format-detection", content: "telephone=no" },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    script: [
+      {
+        src: "https://cdn.splitbee.io/sb.js",
+        async: true,
+        defer: true,
+        hid: "splitbee",
+      },
+    ],
   },
   css: [
     "@/assets/main.css",
