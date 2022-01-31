@@ -1,0 +1,10 @@
+{
+  "title": "Generate Static Sites from Markdown Files with Caddy",
+  "url": "https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server",
+  "date": "Mon, 31 Jan 2022 06:39:56 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30145237\">Comments</a>",
+  "image": null,
+  "description": "Caddy can not only serve files fast and safely. It can also generate static files from markdown, so you dont need a generator.",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}

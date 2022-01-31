@@ -1,0 +1,10 @@
+{
+  "title": "How I Discovered Thousands of Open Databases on AWS",
+  "url": "https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32?gi=ba781482d685",
+  "date": "Mon, 31 Jan 2022 03:05:47 +0000",
+  "content": "<a href=\"https://news.ycombinator.com/item?id=30144021\">Comments</a>",
+  "image": "https://miro.medium.com/max/1200/1*NxOo3DS3ZzyWxGvxSwIqyw.png",
+  "description": "My journey on finding and reporting databases with sensitive data about Fortune-500 companies, Hospitals, Crypto platforms, Startups during…",
+  "publisher": "Hackernews",
+  "publisherUrl": "http://news.ycombinator.com/"
+}
